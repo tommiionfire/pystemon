@@ -30,6 +30,10 @@ Limitations:
 * Only HTTP proxies are allowed
 * Only HTTP urls will use proxies
 
+TODO:
+-----
+* More search terms
+
 Usage
 ------
 ```
@@ -43,4 +47,5 @@ Options:
       -v                    outputs more information  
 
 Default configuration file: /etc/pystemon.yaml or pystemon.yaml in current directory
-``` 
+```
+
